@@ -1,4 +1,4 @@
-package cn.caofanqi.design.principle.liskovsubstitution.ex1;
+package cn.caofanqi.design.principle.liskovsubstitution;
 
 /**
  * <p>Description: 企鹅类，虽然企鹅在生物学中是一种鸟类，但是在面向对象程序设计中，企鹅不能继承鸟类 </p>

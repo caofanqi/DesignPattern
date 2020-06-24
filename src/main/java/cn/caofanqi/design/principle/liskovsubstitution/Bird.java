@@ -1,4 +1,4 @@
-package cn.caofanqi.design.principle.liskovsubstitution.ex1;
+package cn.caofanqi.design.principle.liskovsubstitution;
 
 /**
  * <p>Description: 鸟类，所有的鸟都会飞 </p>

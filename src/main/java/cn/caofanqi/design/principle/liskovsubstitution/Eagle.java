@@ -1,4 +1,4 @@
-package cn.caofanqi.design.principle.liskovsubstitution.ex1;
+package cn.caofanqi.design.principle.liskovsubstitution;
 
 /**
  * <p>Description: 老鹰 </p>
