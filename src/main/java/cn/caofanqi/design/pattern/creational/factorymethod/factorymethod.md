@@ -30,3 +30,16 @@
 
 **缺点:** 类的个数容易过多。
 
+
+
+**源码举例：**
+
+​	JDK：
+
+​	抽象工厂角色：java.lang.Iterable
+
+​	具体工厂角色：java.util.ArrayList
+
+​	抽象产品角色：java.util.Iterator
+
+​	具体产品角色：java.util.ArrayList.Itr
